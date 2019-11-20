@@ -8,8 +8,8 @@ import React from 'react';
         <thead>
         <tr>
             <th>Id</th>
-            <th>name</th>
-            <th>address</th>
+            <th>Title</th>
+            <th>Author</th>
         </tr>
         </thead>
         <tbody>
